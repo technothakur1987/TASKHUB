@@ -1,2 +1,10 @@
-# TASKHUB
-TaskHub is a reliable to-do list app that lets you easily add and manage tasks. Your tasks stay securely in place, even after refreshing the page, ensuring you can efficiently track your responsibilities without worrying about data loss.
+# React + Vite
+
+https://www.youtube.com/watch?v=GD_G41vWAJc(25)
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
